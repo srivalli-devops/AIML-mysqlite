@@ -1,0 +1,7 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+sqlalchemy
+tabulate
+langchain-groq
